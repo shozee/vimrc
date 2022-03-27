@@ -28,6 +28,8 @@ set ignorecase
 set noai
 set vb t_vb=
 
+colorscheme pablo
+
 " display cursor's line/column
 set ruler
 
